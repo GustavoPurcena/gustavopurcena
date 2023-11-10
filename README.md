@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Banner](./assets/images/banner.png)](https://github.com/GustavoPurcena)
 
 <!--
 **GustavoPurcena/gustavopurcena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
