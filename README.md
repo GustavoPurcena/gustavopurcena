@@ -1,6 +1,8 @@
 [![GitHub Banner](./assets/images/banner.png)](https://github.com/GustavoPurcena)
 
-Proactive Mid Level Software Engineer with over 4 years of experience, always looking to learn more. Specializing in developing dynamic, responsive and acessible web platforms.  Committed to delivering high-quality user experiences and keeping up with tech trends.
+Full-Stack Software Engineer with 6+ years designing, building, and operating end-to-end platforms. From the front end (React, Angular) to the back end (Node.js/TypeScript, Python), I focus on architecture, performance, and reliability. Hands-on with SQL (PostgreSQL/MySQL) and MongoDB, messaging (RabbitMQ, SQS), and cloud (AWS/GCP). I care about testing (unit & E2E), CI/CD, Git, and pragmatic Agile practices.
+
+Core stack: React, Next.js, Angular (2+), Node.js, TypeScript/JavaScript, Express, Python, Kotlin, PostgreSQL, MySQL, MongoDB, RabbitMQ, AWS/GCP (S3, SQS), TypeORM, Sass/FlexLayout/Bootstrap, CSS3, HTML5, Agile (Scrum/Kanban).
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopurcena/)
